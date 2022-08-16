@@ -10,6 +10,6 @@ Note taker is an application that will let you keep track of all your great idea
     4. Express.js
 
 ## Link to the Site
-https://sonjailic94.github.io/note-taker/
+https://mysterious-crag-91476.herokuapp.com/
 
 ![Screen Shot 2022-08-16 at 7 25 08 PM](https://user-images.githubusercontent.com/104938407/185002214-116151db-aee7-48de-a370-b9f0058c1acd.png)
