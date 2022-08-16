@@ -4,7 +4,7 @@ const path = require('path');
 const notes = require('../db/notes.json');
 const validate = require('../assets/js/validateNote.js');
 
-// read db.json files + return all saved notes
+// get notes from db.json
 router.get('/api/notes', (req, res) => {
     res.sendFile(path.join(__dirname, '../db/notes.json'))
 });
