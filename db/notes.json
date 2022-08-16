@@ -1,12 +1,12 @@
 [
-  {
-    "title": "Test Title",
-    "text": "Test text",
-    "id": 1
-  },
-  {
-    "title": "new title",
-    "text": "new text",
-    "id": 12
-  }
+    {
+        "title": "Best Day Ever",
+        "text": "Took a nap with my cat Jack!",
+        "id": 1
+    },
+    {
+        "title": "Sunday Chore List",
+        "text": "Gym, tan, laundry",
+        "id": 12
+    }
 ]

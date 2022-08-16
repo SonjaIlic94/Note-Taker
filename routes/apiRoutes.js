@@ -2,7 +2,6 @@ const fs = require('fs');
 const router = require('express').Router();
 const path = require('path');
 const notes = require('../db/notes.json');
-const validate = require('../assets/js/validateNote.js');
 
 // get notes from db.json
 router.get('/api/notes', (req, res) => {
